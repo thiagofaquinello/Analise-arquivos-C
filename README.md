@@ -19,6 +19,15 @@ O sistema processa o arquivo de texto e disponibiliza um menu com as opções:
 
 ---
 
+## Minha Contribuição
+
+1. Implementação da leitura e processamento dos arquivos de entrada.
+2. Organização e refatoração do código, reduzindo repetições e melhorando sua estrutura.
+3. Participação na integração das diferentes partes do programa com outro integrante da equipe.
+4. Participação na apresentação do projeto e explicação do funcionamento dos diferentes módulos do código.
+
+---
+
 ## Complexidade Computacional
 
 Considerando $n$ como o número total de palavras no arquivo:
