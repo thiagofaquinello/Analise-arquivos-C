@@ -1,0 +1,8 @@
+Engenharia de Controle e Automacao UFSC Blumenau
+Algoritmos e Estruturas de Dados em C
+Linguagem C C++ Python Assembly MIPS Arduino
+Analise de complexidade temporal O1 On Onlogn
+Sistemas operacionais e estruturas de dados avancadas
+Processamento de arquivos texto ASCII e tabelas hash
+Oito palavras para teste de contagem e frequencia
+C C C Python Python MIPS
